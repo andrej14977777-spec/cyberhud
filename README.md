@@ -1,4 +1,4 @@
-# cyberhud
+# CyberHud
 Comprehensive system analysis &amp; diagnostic utility for Windows.
 AI-ready system diagnostics, security auditor, and remote PC controller built with Rust & Tauri. Generate deep hardware reports, monitor suspicious activity, and manage your PC via mobile.
 Deep Diagnostics: Full hardware health reports (CPU/GPU temps, RAM modules, Disk S.M.A.R.T).
