@@ -13,7 +13,7 @@ Local Processing: All system analysis and data collection are performed locally 
 No Third-Party Sharing: We do not sell, rent, or share your personal or system data with third-party companies.
 User-Initiated Export: Reports generated for AI analysis are only shared with third-party AI services (like OpenAI or Claude) if the user manually copies and pastes or uploads the report.
 4. Remote Control & Parental Monitoring
-The remote control and monitoring features are designed for personal use. Users are responsible for ensuring that the App is used in compliance with local laws regarding privacy and monitoring.
+The remote control and monitoring features are designed for personal use. Users are responsible for ensuring that the App is used in compliance with local laws regarding privacy and monitoring. All collected information must be verified and the device must be monitored carefully.
 5. Third-Party Services
 The App may contain links to the developer's official channel for educational purposes. We are not responsible for the privacy practices of external platforms.
 6. The user is solely responsible for using the monitoring and remote control functions in accordance with the laws of their country. Using the App for unauthorized surveillance of third parties without their consent is strictly prohibited.
