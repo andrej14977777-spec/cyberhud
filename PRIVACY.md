@@ -1,5 +1,5 @@
 Privacy Policy for CyberHUD
-Effective Date: February 7, 2026
+Effective Date: February 2026
 1. Introduction
 CyberHUD ("we", "our", or "the App"), developed by Zhivoglas, provides system diagnostics, hardware authentication, and remote control features. We value your privacy and prepared this policy to explain how we handle your data.
 2. Data Collection and Usage
