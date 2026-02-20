@@ -16,7 +16,13 @@ User-Initiated Export: Reports generated for AI analysis are only shared with th
 The remote control and monitoring features are designed for personal use. Users are responsible for ensuring that the App is used in compliance with local laws regarding privacy and monitoring.
 5. Third-Party Services
 The App may contain links to the developer's official channel for educational purposes. We are not responsible for the privacy practices of external platforms.
-6. Changes to This Policy
+6. The user is solely responsible for using the monitoring and remote control functions in accordance with the laws of their country. Using the App for unauthorized surveillance of third parties without their consent is strictly prohibited.
+7. The application is still in development and is experimental, and is provided "as is." The developer is not liable for any direct or indirect damages, including equipment failures or data loss, resulting from the use of CyberHUD.
+8. The developer is not responsible for unauthorized access to data caused by insecure configuration of the user's local network or compromise of his mobile device.
+9. The developer does not bear any financial responsibility for the use of this application.
+10. All system reports and screenshots processed locally are not stored in the developer's cloud storage. Temporary files are deleted automatically after closing the session or upon user request.
+11. The application does not provide professional functions and is created for informational purposes only, therefore it cannot be used for business or other professional or responsible tasks.
+12. Changes to This Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-7. Contact Us
+13. Contact Us
 If you have any questions about this Privacy Policy, please contact us via the official developer channel or GitHub repository.
