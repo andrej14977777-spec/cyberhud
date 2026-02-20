@@ -20,8 +20,8 @@ The App may contain links to the developer's official channel for educational pu
 7. The application is still in development and is experimental, and is provided "as is." The developer is not liable for any direct or indirect damages, including equipment failures or data loss, resulting from the use of CyberHUD.
 8. The developer is not responsible for unauthorized access to data caused by insecure configuration of the user's local network or compromise of his mobile device.
 9. The developer does not bear any financial responsibility for the use of this application.
-10. All system reports and screenshots processed locally are not stored in the developer's cloud storage. Temporary files are deleted automatically after closing the session or upon user request.
-11. The application does not provide professional functions and is created for informational purposes only, therefore it cannot be used for business or other professional or responsible tasks.
+10. All system status reports and screenshots processed locally are not stored in the developer's cloud storage. Temporary files are automatically deleted after the session ends or may be saved locally on the user's device or within the app for its functionality, at the user's discretion. The developer is not responsible for how the user uses this data.
+11. The application does not perform professional functions and is created for informational purposes only (the user collects information about their device, blocks unwanted information, terminates unwanted processes, and manages information processes). The application cannot be used for business or other professional or responsible tasks. The application's operation depends on other sources, factors, and dependencies it utilizes, and therefore the developer is not responsible for the operation of these sources, factors, and dependencies (e.g., hardware, software, drivers, application software components, power supply operation, user misuse, natural phenomena, etc.).
 12. Changes to This Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 13. Contact Us
